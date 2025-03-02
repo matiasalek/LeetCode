@@ -1,5 +1,5 @@
 package Easy;
-
+/*
 public class ReverseLinkedList206 {
     public ListNode reverseList(ListNode head) {
         if (head == null) return null;
@@ -15,3 +15,4 @@ public class ReverseLinkedList206 {
         return prev;
     }
 }
+*/
