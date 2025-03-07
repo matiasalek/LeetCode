@@ -1,4 +1,4 @@
-package Easy;
+package Easy.Java;
 
 public class ConcatenationOfArray1929 {
     public int[] getConcatenation(int[] nums) {
