@@ -1,4 +1,4 @@
-package Easy;
+package Easy.Java;
 
 public class BestTimeToBuyAndSellStock121 {
     public int maxProfit(int[] prices) {
