@@ -1,4 +1,4 @@
-package Easy;
+package Easy.Java;
 /*
 public class ReverseLinkedList206 {
     public ListNode reverseList(ListNode head) {

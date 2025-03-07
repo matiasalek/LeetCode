@@ -1,4 +1,4 @@
-package Easy;
+package Easy.Java;
 
 public class PalindromeNumber9 {
     public boolean isPalindrome(int x) {

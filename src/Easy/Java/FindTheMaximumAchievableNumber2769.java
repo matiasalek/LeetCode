@@ -1,4 +1,4 @@
-package Easy;
+package Easy.Java;
 
 public class FindTheMaximumAchievableNumber2769 {
     public int theMaximumAchievableX(int num, int t) {

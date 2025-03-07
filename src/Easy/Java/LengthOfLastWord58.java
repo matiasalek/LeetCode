@@ -1,4 +1,4 @@
-package Easy;
+package Easy.Java;
 
 public class LengthOfLastWord58 {
     public int lengthOfLastWord(String s) {

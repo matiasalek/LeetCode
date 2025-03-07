@@ -1,4 +1,4 @@
-package Easy;
+package Easy.Java;
 
 public class twoSum1 {
     public int[] twoSum(int[] nums, int target) {

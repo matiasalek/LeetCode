@@ -1,4 +1,4 @@
-package Easy;
+package Easy.Java;
 
 public class ConverttheTemperature2469 {
     public double[] convertTemperature(double celsius) {
